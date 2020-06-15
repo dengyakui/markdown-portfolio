@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. create first GitHub repository
+2. create first commit
+3. create first branch
